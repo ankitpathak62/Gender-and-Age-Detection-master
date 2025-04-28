@@ -1,4 +1,4 @@
-#A Gender and Age Detection program by Mahesh Sawant
+#A Gender and Age Detection program by Sunfire Sensei
 
 import cv2
 import math
